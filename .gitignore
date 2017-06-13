@@ -1,0 +1,9 @@
+*pyc
+*.egg_info
+*.egg-info
+.idea
+env
+dist
+build
+.DS_Store
+.ipynb_checkpoints/
